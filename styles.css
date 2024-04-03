@@ -23,6 +23,7 @@ h2 {
     text-align: center;
 }
 
+/* Center four buttons */
 .container {
     display: flex;
     flex-direction: row;
